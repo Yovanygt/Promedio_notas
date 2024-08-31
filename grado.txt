@@ -1,0 +1,96 @@
+Código: 2
+Nombre: Lili
+Grado: 11
+Sección: Femenino
+Profesor: Browser
+Materia: Matematica
+Año Escolar: 2023
+----------------------
+Código: 1
+Nombre: Mario Bros
+Grado: 11
+Sección: Masculino
+Profesor: walter
+Materia: Fisica
+Año Escolar: 2024
+----------------------
+Código: 4
+Nombre: pablo
+Grado: primero
+Sección: A
+Profesor: winy
+Materia: sociales
+Año: 2025
+---
+Código: 4
+Nombre: pablo
+Grado: primero
+Sección: A
+Profesor: sad
+Materia: das
+Año: 2028
+---
+Código: 3
+Nombre: lucas
+Grado: cuarto
+Sección: B
+Profesor: ads
+Materia: asd
+Año: 22
+---
+Código: 6
+Nombre: mauro
+Grado: segundo
+Sección: C
+Profesor: Alma
+Materia: Ciencias
+Año: 2026
+----------------------------
+Código: 5
+Nombre: dilan
+Grado: segundo
+Sección: B
+Profesor: Miguel
+Materia: fisica
+Año: 2024
+----------------------------
+Código: 10
+Nombre: miguel
+Grado: sexto
+Sección: A
+Profesor: nufio
+Materia: sociales
+Año: 2024
+----------------------------
+Código: 15
+Nombre: Ervin
+Grado: sexto
+Sección: A
+Profesor: Walter
+Materia: Matematica
+Año: 2025
+----------------------------
+Código: 16
+Nombre: das
+Grado: dsa
+Sección: A
+Profesor: walter
+Materia: matematica
+Año: 2025
+----------------------------
+Código: 20
+Nombre: maria
+Grado: segundo
+Sección: A
+Profesor: Cali
+Materia: Progra
+Año: 2024
+----------------------------
+Código: 21
+Nombre: kim
+Grado: tercero
+Sección: A
+Profesor: cali
+Materia: sociales
+Año: 2024
+----------------------------

@@ -1,0 +1,84 @@
+Código: 1
+Nombre: Mario Bros
+Grado: quinto
+Sección: A
+Edad: 11
+Género: Masculino
+----------------------
+Código: 2
+Nombre: Lili
+Grado: Sexto
+Sección: A
+Edad: 11
+Género: Femenino
+----------------------
+Código: 3
+Nombre: lucas
+Grado: cuarto
+Sección: B
+Edad: 12
+Género: masculino
+----------------------
+Código: 4
+Nombre: pablo
+Grado: primero
+Sección: A
+Edad: 6
+Género: masculino
+----------------------
+Código: 5
+Nombre: dilan
+Grado: segundo
+Sección: B
+Edad: 8
+Género: masculino
+----------------------
+Código: 6
+Nombre: mauro
+Grado: segundo
+Sección: C
+Edad: 8
+Género: masculino
+----------------------
+Código: 10
+Nombre: miguel
+Grado: sexto
+Sección: A
+Edad: 8
+Género: masculino
+----------------------
+Código: 13
+Nombre: yova
+Grado: sexto
+Sección: A
+Edad: 15
+Género: masculino
+----------------------
+Código: 15
+Nombre: Ervin
+Grado: sexto
+Sección: A
+Edad: 18
+Género: masculino
+----------------------
+Código: 16
+Nombre: das
+Grado: dsa
+Sección: A
+Edad: 22
+Género: dasd
+----------------------
+Código: 20
+Nombre: maria
+Grado: segundo
+Sección: A
+Edad: 7
+Género: femenino
+----------------------
+Código: 21
+Nombre: kim
+Grado: tercero
+Sección: A
+Edad: 9
+Género: femenino
+----------------------

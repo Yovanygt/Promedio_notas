@@ -1,0 +1,166 @@
+Código: 1
+Grado: Mario Bros
+Sección: 11
+Materia: Masculino
+Nota Bimestre 1: 65.0
+Nota Bimestre 2: 62.0
+Nota Bimestre 3: 65.0
+Nota Bimestre 4: 70.0
+Promedio Final: 65.5
+Resultado: Aprobado
+
+Código: 6
+Nombre: mauro
+Grado: segundo
+Sección: C
+Materia: Ciencias
+Nota Bimestre 1: 76.0
+Nota Bimestre 2: 34.0
+Nota Bimestre 3: 65.0
+Nota Bimestre 4: 80.0
+Promedio Final: 63.75
+Resultado: Aprobado
+
+Código: 10
+Nombre: miguel
+Grado: sexto
+Sección: A
+Materia: sociales
+Nota Bimestre 1: 65.0
+Nota Bimestre 2: 62.0
+Nota Bimestre 3: 60.0
+Nota Bimestre 4: 70.0
+Promedio Final: 64.25
+Resultado: Aprobado
+
+Código: 10
+Nombre: miguel
+Grado: sexto
+Sección: A
+Materia: sociales
+Nota Bimestre 1: 23.0
+Nota Bimestre 2: 32.0
+Nota Bimestre 3: 34.0
+Nota Bimestre 4: 45.0
+Promedio Final: 33.5
+Resultado: Reprobado
+
+Código: 10
+Nombre: miguel
+Grado: sexto
+Sección: A
+Materia: sociales
+Nota Bimestre 1: 65.0
+Nota Bimestre 2: 100.0
+Nota Bimestre 3: 45.0
+Nota Bimestre 4: 100.0
+Promedio Final: 77.5
+Resultado: Aprobado
+
+Código: 10
+Nombre: miguel
+Grado: sexto
+Sección: A
+Materia: sociales
+Nota Bimestre 1: 65.0
+Nota Bimestre 2: 62.0
+Nota Bimestre 3: 80.0
+Nota Bimestre 4: 80.0
+Promedio Final: 71.75
+Resultado: Aprobado
+
+Código: 10
+Nombre: miguel
+Grado: sexto
+Sección: A
+Materia: sociales
+Nota Bimestre 1: 56
+Nota Bimestre 2: 58
+Nota Bimestre 3: 62
+Nota Bimestre 4: 75
+Promedio: 62.75
+-----------------------
+Código: 2
+Nombre: Lili
+Grado: 11
+Sección: Femenino
+Materia: Matematica
+Nota Bimestre 1: 55
+Nota Bimestre 2: 100
+Nota Bimestre 3: 65
+Nota Bimestre 4: 105
+Promedio: 81.25
+-----------------------
+Código: 4
+Nombre: pablo
+Grado: primero
+Sección: A
+Materia: sociales
+Nota Bimestre 1: 65.0
+Nota Bimestre 2: 60.0
+Nota Bimestre 3: 80.0
+Nota Bimestre 4: 52.0
+Promedio Final: 64.25
+Resultado: Aprobado
+
+Código: 20
+Nombre: maria
+Grado: segundo
+Sección: A
+Materia: Progra
+Nota Bimestre 1: 65.0
+Nota Bimestre 2: 80.0
+Nota Bimestre 3: 80.0
+Nota Bimestre 4: 80.0
+Promedio Final: 76.25
+Resultado: Aprobado
+
+Código: 21
+Nombre: kim
+Grado: tercero
+Sección: A
+Materia: sociales
+Nota Bimestre 1: 65.0
+Nota Bimestre 2: 80.0
+Nota Bimestre 3: 20.0
+Nota Bimestre 4: 10.0
+Promedio Final: 43.75
+Resultado: Reprobado
+
+===========================================
+Código: 10
+Nombre: miguel
+Grado: sexto
+Sección: A
+Materia: nufio
+Nota Bimestre 1: 34.0
+Nota Bimestre 2: 23.0
+Nota Bimestre 3: 32.0
+Nota Bimestre 4: 32.0
+Promedio Final: 30.25
+Resultado: Reprobado
+===========================================
+Código: 10
+Nombre: miguel
+Grado: sexto
+Sección: A
+Materia: sociales
+Nota Bimestre 1: 22.0
+Nota Bimestre 2: 22.0
+Nota Bimestre 3: 22.0
+Nota Bimestre 4: 22.0
+Promedio Final: 22.0
+Resultado: Reprobado
+===========================================
+Código: 22
+Nombre: No encontrado
+Grado: No encontrado
+Sección: No encontrado
+Materia: No encontrado
+Nota Bimestre 1: 22.0
+Nota Bimestre 2: 100.0
+Nota Bimestre 3: 22.0
+Nota Bimestre 4: 22.0
+Promedio Final: 41.5
+Resultado: Reprobado
+===========================================
